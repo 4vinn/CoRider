@@ -7,6 +7,7 @@ This repository contains my submission for the CoRider intern assignment to deve
 Experience cost-effective and convenient cab rides by connecting with CoRiders heading in your direction. This platform intelligently matches you with fellow travelers, eliminating the need for expensive solo rides or inconvenient bus trips. Say goodbye to high costs and hello to hassle-free carpooling without a car!
 Not only this, each trip will increase your CO2 metre measuring the amount of CO2 you have saved till date! 
 
+## About assignment ->
 [UI design](https://www.figma.com/file/vbsuzyx9MdiA9SREz27b7N/FE-Intern-Assignment?type=design&node-id=0-1&mode=design)  
 
 ## Features
